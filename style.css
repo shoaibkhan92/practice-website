@@ -15,10 +15,7 @@ body {
 }
 
 header {
-    /* height: 70px; */
     background-color: #ffffff;
-    /* position: sticky;
-    top: 0; */
 }
 
 header .parent {
