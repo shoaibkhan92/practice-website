@@ -97,6 +97,8 @@ header .parent .right .nav ul li a {
     line-height: 32px;
     outline: none;
     border: none;
+    cursor: pointer;
+
 }
 
 .main .container .right-content img {
@@ -202,6 +204,7 @@ footer .p-flex .btn-sub {
     background-color: #F51E1E;
     border-radius: 10px;
     margin: 15px 0;
+    cursor: pointer;
 }
 
 footer .border-top .footer-end {
