@@ -55,7 +55,7 @@ header .parent .right .nav ul li a {
     gap: 24px;
     padding: 80px 0;
 
-}
+}   
 
 .main .container .parent1 .left-content {
     width: 50%;
@@ -145,7 +145,6 @@ footer {
 footer .p-flex {
     display: flex;
     justify-content: space-between;
-    /* gap: 40PX; */
     padding: 50px 0;
 }
 
@@ -207,19 +206,18 @@ footer .p-flex .btn-sub {
     cursor: pointer;
 }
 
+footer .border-top {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #374151;
+    padding: 25px 0;
+}
 footer .border-top .footer-end {
     font-size: 18px;
     font-weight: 400;
     line-height: 32px;
     color: #CDCED0;
 
-}
-
-footer .border-top {
-    display: flex;
-    justify-content: space-between;
-    border-top: 1px solid #374151;
-    padding: 25px 0;
 }
 
 footer .border-top a {
